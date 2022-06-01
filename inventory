@@ -1,0 +1,2 @@
+[vsds]
+vsd01   ansible_host=10.0.2.132 ansible_user=root ansible_password=Alcateldc

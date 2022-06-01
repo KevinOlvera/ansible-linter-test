@@ -1,0 +1,6 @@
+---
+- name: Manage VSDs servers
+  hosts: vsds
+  tasks:
+  - name: Get date
+    ansible.builtin.command: date

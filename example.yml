@@ -3,4 +3,4 @@
   hosts: vsds
   tasks:
   - name: Get date
-    ansible.builtin.command: date
+  ansible.builtin.command: date
